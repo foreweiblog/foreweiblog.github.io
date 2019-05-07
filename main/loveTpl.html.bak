@@ -301,6 +301,7 @@
 var adres="../music/saveme.mp3";
 var adres1="../music/love.mp3"
 var num = Math.floor((Math.random()*1)+1)
+console.log(num)
    if(num>1){
 	document.getElementById('bgmMusic').src = adres;
 	}else{
