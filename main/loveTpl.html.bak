@@ -297,4 +297,16 @@
 	<script src="../js/audio.min.js"></script>
     <div class="mPower"><span id="on" title="点击暂停"></span><span id="off" title="点击播放"></span></div>
 </body>
+<script language="javascript">
+var adres="../music/saveme.mp3";
+var adres1="../music/love.mp3"
+var num = Math.floor((Math.random()*10)+1)
+   if(num>6){
+	document.getElementById('bgmMusic').src = adres;
+	}else{
+	document.getElementById('bgmMusic').src = adres1;
+	}
+
+ 
+</script>
 </html>
