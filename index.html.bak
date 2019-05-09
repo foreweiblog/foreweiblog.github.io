@@ -28,7 +28,93 @@
 	<link rel="stylesheet" href="../css/all.min.css">
 </head>
 <body>
-<embed src="./main/forewei-resume.pdf" width="100%" height="100%">
+<!-- <embed src="./main/forewei-resume.pdf" width="100%" height="100%"> -->
+<p><strong><u>【</u></strong><strong><u>个人信息</u></strong><strong><u>】： &nbsp;</u></strong><strong><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></strong></p>
+<p>姓名：范伟 | 性别：男 |&nbsp;出生日期：1993年04月19日 | 户籍地：四川省-成都市</p>
+<p>手机：15982266951&nbsp;| 邮箱：it_fw2015@sina.com&nbsp;| 现居住城市：四川省-成都市</p>
+<p>工作年限：4年java开发经验 | 目前状态：在职 &nbsp;&nbsp;</p>
+<p><strong><u><strong>&nbsp;</strong></u></strong></p>
+<p><strong><u><strong>【期望职位】： &nbsp;&nbsp;</strong></u></strong></p>
+<p>期望职位：<strong><strong>java</strong></strong><strong><strong>后台开发</strong></strong></p>
+<p>期望薪资：15k</p>
+<p><strong><u><strong>&nbsp;</strong></u></strong></p>
+<p><strong><u><strong>【</strong></u></strong><strong><u><strong>工作经历</strong></u></strong><strong><u><strong>】： &nbsp;&nbsp;&nbsp;</strong></u></strong><strong><u><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></u></strong></p>
+<p>公司名称： 成都鱼说科技有限公司</p>
+<p>公司简介： 民营&nbsp;| 科技激活文化Sass服务&nbsp;| 100-200人</p>
+<p>在职时间： 2018/06/09 ----至今</p>
+<p>工作职位： java后台开发</p>
+<p>工作描述：一. 主要负责文化激活云，文化商城，鱼说app的开发与迭代，以及数据库设计，接口设计，对基础</p>
+<p>业务代码进行抽取封装，重复利用，sql性能优化。</p>
+<p>二．参与需求评审与优化，代码的Code Review，公司核心业务的发掘与发展方向讨论。</p>
+<p>&nbsp;</p>
+<p>公司名称： 成都松果科技有限公司</p>
+<p>公司简介： 民营&nbsp;| 医疗软件服务行业&nbsp;| 20-60人</p>
+<p>在职时间： 2015/09 ---- 2018/06</p>
+<p>工作职位： java前后端开发</p>
+<p>工作描述：一. 主要负责辩证论治系统的开发与维护，中药汤剂配送系统，非药物治疗系统的开发，以及参与需求</p>
+<p>调研，业务梳理，现场实施，规划文档，数据库设计，与医院基础his系统完成嵌入开发。</p>
+<ol>
+<li>研究并使用Fiddler抓包工具分析App接口，并用python进行数据爬取，然后将爬取的数据进行</li>
+</ol>
+<p>分析处理，最后将分析结果持久化到数据库，通过对应的业务系统进行展示。</p>
+<p>&nbsp;</p>
+<p><strong><u><strong>【IT技能</strong></u></strong><strong><u><strong>&nbsp;</strong></u></strong><strong><u><strong>】： &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></u></strong></p>
+<p>熟练使用MyEclips、Idea、Git、Maven、VSCode、sourceTree、等开发工具。</p>
+<p>&nbsp;</p>
+<p>熟练使用SptringFramwork、Mybatis、Redis、lucnece等框架，曾构建过Spring源码，通过个人总结的源码</p>
+<p>调试经验，进行逆向分析阅读源码，对Framework，SpringBoot，Servlet3.0有一定的研究。</p>
+<p>&nbsp;</p>
+<p>熟悉SpringCloud、Ngnix、CentOS、分布式开发、设计模式、消息队列、高并发、数据库性能优化、高可用服务层设计。</p>
+<p>&nbsp;</p>
+<p>了解常见的算法与数据结构，能够从该方面分析系统性能，并进行优化。</p>
+<p>&nbsp;</p>
+<p><strong><u><strong>【项目经历】 &nbsp;&nbsp;&nbsp;&nbsp;</strong></u></strong></p>
+<p><strong><u><strong>&nbsp;</strong></u></strong></p>
+<p><strong><strong>项目一</strong></strong><strong><strong>&nbsp;: 文化激活云</strong></strong></p>
+<p>项目简介：提供sass服务，为文化主激活文化云，应用于旅游、教育、出版、农业等产业，实现文化信息资源向文化资产转化，提升各区域文化活性以助力产业结构优化、产业经济升级。</p>
+<p>主要技术：springBoot，jdk8，jdbcTemplate，Eureka，Zuul，RestFul，redis，mysql，maven，git，jekens，ngnix</p>
+<p>工作描述：负责文化云，文化模块的开通与申请，文化拓展功能文化ai，文化分以及征稿，创作者平台，角色权限，部门组织架构的开发与迭代。在需求评审阶段一些问题倍忽略讨论时，开发中我会仔细分析该业务的流程特点，并与产品经理沟通讨论出最优方式。</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><strong>项目</strong></strong><strong><strong>二 : 文化商城</strong></strong></p>
+<p>项目简介：文化主的文化价值转化平台（电商销售平台），用户通过微信小程序购买各大文化主的经营的文化商品。</p>
+<p>主要技术：springBoot，jdk8，jdbcTemplate，springCloud，RestFul，redis，mysql，maven，git，jekens，ngnix</p>
+<p>工作描述：负责全部代码的设计与编写，包含订单，商品，店铺，物流，支付，购物车的开发，并与微信支付接口对接实现电商购物平台。</p>
+<p>&nbsp;</p>
+<p><strong><u><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></u></strong></p>
+<p><strong><strong>项目</strong></strong><strong><strong>三 : 中医辩证论治系统（v4.0，v6.0）</strong></strong></p>
+<p>项目简介：中医辩证论治系统是一套实现医生理法方药一线贯通，规范医生中药处方，提高年轻医生开方质量的智能施治系统，包含病人基本信息、挂号信息、医生与部门信息、ICD-10病名、症状、证型、药品信息、药品配伍、药品禁忌、以及核心算法生成46位归经码等。该项目在4.0版本就成功与10多家His厂商（<strong><strong>医院基础信息系统</strong></strong>）实现了接口对接，并在全省<strong><strong>60多家</strong></strong>中医院进行实施使用。</p>
+<p>主要技术：&nbsp;V4.0 （SSH，JSP，ExtJS，SVN）</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;V6.0 （SpringBoot，Mybatis，Redis，Lucene，Maven，Git，Vue，iview，ES6）</p>
+<p>工作描述：负责数据库表的设计与维护，编写后台业务逻辑，前台页面脚本，以及His厂商接口对接。参与讨论系统的需求与开发，编写接口文档，并实现接口功能。</p>
+<p>&nbsp;</p>
+<p>项目难点：医院的基础系统即使同一厂家也会有一定的区别，因而导致我们系统接口也是针对医院的多样化有很多</p>
+<p>种实现，而且后期维护成本也会很高，基础系统一升级就会出现一些问题，很不便于系统的迭代更新。</p>
+<p>通过此难点设计接口标准化，开发出一套公共接口供第三方调用，支持第xml与json，节省了很多开发时间与维护成本。</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><strong>项目</strong></strong><strong><strong>四</strong></strong><strong><strong>：</strong></strong><strong><strong>非药物治疗系统</strong></strong></p>
+<p>项目简介：非药物治疗系统是一套便于医生开具非药物项目（如小针刀、针灸、艾灸.......）的智能辅助系统，该系统分为发送医嘱端和执行医嘱端，同时患者可以微信进行疗效评价，提高了医院中医非药物治疗水平，规范了医院开具非药物处方的流程。 &nbsp;&nbsp;</p>
+<p>主要技术：SpringBoot，Mybatis，Redis，Maven，Git，Beetl，html，JavaScript</p>
+<p>工作描述：讨论项目需求与业务要点，搭建该项目后台，集成Mybatis、Mysql、Redis、Beetl模板引擎，微信接口自动推送开发，短信接口业务设计与开发，编写相关接口文档，并实现后台业务逻辑。</p>
+<p>&nbsp;</p>
+<p><strong><strong>&nbsp;</strong></strong><strong><strong>项目</strong></strong><strong><strong>五</strong></strong><strong><strong>：</strong></strong><strong><strong>中药汤剂配送系统</strong></strong></p>
+<p>项目简介：中药汤剂配送系统是一套针对现在中医院中草药代煎服务等待时间长而诞生的辅助代煎配送系统，该系统具备煎药机代煎流程控制（洗药，泡药，煎药的时间），中药代煎配送服务。提高了医院服务质量，减少了患者等药时间。</p>
+<p>主要技术：SpringMVC，Mybatis，Maven，SVN，JSP，html，JavaScript</p>
+<p>工作描述：编写项目接口文档，并对接His系统（医院信息基础系统）编写的接口，如：病人，处方，医生信息的同步，持久化到我们数据库。整理医院需求开发病人配送流程，对接微信配送流程接口，研究运用lodop实现快递单套打等等。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><u><strong>【教育背景】 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></u></strong></p>
+<p>&nbsp;2012/09 &mdash;&nbsp;2015/06 &nbsp;&nbsp;&nbsp;&nbsp;四川城市职业学院 &nbsp;&nbsp;| &nbsp;&nbsp;大专 &nbsp;&nbsp;| &nbsp;&nbsp;统招&nbsp;</p>
+<p>在校学习情况<br />曾获 国家级bim建模大赛二等奖 &nbsp;院校级 三等奖 奖学金&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><u><strong>【兴趣爱好】 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></u></strong></p>
+<p>本人从小爱好数学，有较强的逻辑思维。</p>
+<p>对计算机编程有着浓厚的兴趣，常利用空闲时间阅读spring，mybatis官网，在熟悉应用前提下，阅读调试源码，了解底层思路，这极大锻炼了自己的自学能力与动手能力。</p>
+<p>为人踏实，做事有良好的责任心，具备团队合作能力，性格活泼开朗，有一定的创新钻研能力。</p>
+<p>&nbsp;&nbsp;</p>
 </body>
 <!-- <script>
 
