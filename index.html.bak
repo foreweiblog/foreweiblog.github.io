@@ -28,7 +28,7 @@
 	<link rel="stylesheet" href="../css/all.min.css">
 </head>
 <body>
-<embed src="./man/1.pdf" width="425" height="425">
+<embed src="./man/1.pdf" width="100%" height="100%">
 </body>
 <!-- <script>
 
