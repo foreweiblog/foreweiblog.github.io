@@ -19,17 +19,20 @@
 	<meta http-equiv='Pragma' content='no-cache' />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-	<meta name="author" content="生日">
+<!-- 	<meta name="author" content="生日">
 	<meta name="description" content="表白">
-	<title>Fw❤Ler一生一世 - ，我想对你说</title>
+	<title>Fw❤Ler一生一世 - ，我想对你说</title> -->
+	<meta name="author" content="forewei">
+	<meta name="description" content="Resume">
+	<title>forewei-Resume</title>
 	<link rel="stylesheet" href="../css/all.min.css">
 </head>
 <body>
-
+<embed src="./man/1.pdf" width="425" height="425">
 </body>
-<script>
+<!-- <script>
 
 window.location.href='./main/loveTpl.html';
 
-</script>
+</script> -->
 </html>
